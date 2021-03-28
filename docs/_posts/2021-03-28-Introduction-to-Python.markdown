@@ -16,12 +16,15 @@ author: Guangrong Wang
 
 ### Install python 
 
+#### For mac users 
+
+#### For windows users
+
 ### Install visual studio code
 
 You can download visual studio code from [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
 <img src="/pythonforkids/assets/img/downloadVisualStudioCode.png">
-![Tux, the Linux mascot](/pythonforkids/assets/images/downloadVisualStudioCode.png)
 
 
 ### Your first program - Hello world 
