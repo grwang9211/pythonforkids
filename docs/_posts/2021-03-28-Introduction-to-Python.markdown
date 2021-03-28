@@ -21,7 +21,6 @@ author: Guangrong Wang
 You can download visual studio code from [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
 <img src="/pythonforkids/assets/img/downloadVisualStudioCode.png">
-![Tux, the Linux mascot](/pythonforkids/assets/images/downloadVisualStudioCode.png)
 
 
 ### Your first program - Hello world 
