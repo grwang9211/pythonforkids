@@ -16,6 +16,10 @@ author: Guangrong Wang
 
 ### Install python 
 
+#### For mac users 
+
+#### For windows users
+
 ### Install visual studio code
 
 You can download visual studio code from [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
