@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Giraffe
 title:  "Introduction"
 date:   2021-03-27 22:40:19 -0500
 categories: Python tutorial for kids
